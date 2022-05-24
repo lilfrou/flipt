@@ -1,0 +1,13 @@
+tap 'filosottile/musl-cross'
+tap 'goreleaser/tap'
+
+brew 'cmake'
+brew 'cosign'
+brew 'go'
+brew 'goreleaser'
+brew 'hadolint'
+brew 'minikube'
+brew 'musl-cross'
+brew 'pkg-config'
+brew 'protobuf'
+brew 'sqlite'
